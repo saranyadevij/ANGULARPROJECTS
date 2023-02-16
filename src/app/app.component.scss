@@ -1,0 +1,12 @@
+// ********* primary colors definition ***********
+
+$primary_1: #286f87;
+
+
+// ********* common styles ***********
+.content-body{
+    min-height: 100%;
+    //padding: 100px 1rem;
+    background: $primary_1;
+    display: block;
+}
